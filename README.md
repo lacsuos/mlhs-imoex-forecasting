@@ -1,2 +1,4 @@
 # mlhs-imoex-forecasting
-Masters work for 
+Masters work for MLHS
+
+Airflow + MLFlow + TG bot
